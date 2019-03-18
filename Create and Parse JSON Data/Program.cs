@@ -9,6 +9,7 @@ namespace Create_and_Parse_JSON_Data
    class Student
     {
         public static int Id { get; set; } // 为什么source code 不需要 static?
+                                           // Why is "static" NOT needed in the source code?
         public static string Name { get; set; } // 同上。。。。
         public static string Degree { get; set; }
         public static List<string> Hobbies { get; set; }
@@ -24,7 +25,7 @@ namespace Create_and_Parse_JSON_Data
             {
                 Student student = new Student();
                 {
-                    Id = 1; // 为什么用逗号会报错？
+                    Id = 1; // 为什么用逗号会报错？ Why does the source code use , instead?
                     Name = "Baly"; // 同上。。。。
                     Degree = "MBA";
                     Hobbies = new List<string>()
@@ -44,7 +45,7 @@ namespace Create_and_Parse_JSON_Data
                 var dictonary = JsonConvert.DeserializeObject<IDictionary>(studentInfoJson);
                 foreach (DictionaryEntry entry in dictonary)
                 {
-                    Console.WriteLine(entry.Key + ":" + entry.Value); //为什么结果显示不出来？ o(╥﹏╥)o
+                    Console.WriteLine(entry.Key + ":" + entry.Value); //为什么结果显示不出来？ o(╥﹏╥)o Not expected result shown ...
                 }
                 Console.ReadLine();
             }
