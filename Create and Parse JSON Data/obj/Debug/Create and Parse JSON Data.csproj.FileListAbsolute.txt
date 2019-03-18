@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\obj\Debug\Create and Parse JSON Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\obj\Debug\Create and Parse JSON Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\bin\Debug\Create and Parse JSON Data.exe.config
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\bin\Debug\Create and Parse JSON Data.exe
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\bin\Debug\Create and Parse JSON Data.pdb
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\obj\Debug\Create and Parse JSON Data.csproj.CopyComplete
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\obj\Debug\Create and Parse JSON Data.exe
+C:\Users\User\source\repos\Create and Parse JSON Data\Create and Parse JSON Data\obj\Debug\Create and Parse JSON Data.pdb
