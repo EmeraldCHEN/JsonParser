@@ -45,6 +45,14 @@ namespace Create_and_Parse_JSON_Data
                 foreach (DictionaryEntry entry in dictonary)
                 {
                     Console.WriteLine(value:entry.Key + ":" + entry.Value); 
+                                                                           /*  Id:1
+                                                                                Name:Baly
+                                                                                Degree:MBA
+                                                                                Hobbies:[
+                                                                                  "Reading",
+                                                                                  "Playing games" 
+                                                                                ]                   
+                                                                            */
                 }
                 Console.ReadLine();
             }
